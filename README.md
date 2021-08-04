@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nandini2000-03
 - 👀 I’m interested in javascript,ML,AI,CNN.
-- 🌱 I’m currently learning ......Python and ML and a bit of HTML & CSS.
+- 🌱 I’m currently learning ......Android Studion and working in a few small Projects by myself and if you are interested in working together you can just pop the mail.
 - 💞️ I’m looking to collaborate on a project regarding a novel reading app in late run .
 - 📫 How to reach me ........ you can just pop a mail at nandinijain324@gmail.com
 
